@@ -1,0 +1,10 @@
+mail prof : pcavalet@kaliop.com
+
+middleware :
+ - session( voir TP )
+ - custom -> init TODO
+
+ROute : 
+ - add Todo
+ - delete Todo (Id)
+ - list todos (depart, nombre)
